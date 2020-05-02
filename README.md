@@ -1,5 +1,5 @@
 # QtChat
-Qt bases simple server client chat application communicating over TCP.
+Qt based simple server client chat application communicating over TCP.
 
 The application illustrate how a simple client server chat application works over a TCP connection. Few of the salient feature of the application are :
 1. How a client can communication to another client via a server.
