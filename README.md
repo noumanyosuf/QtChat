@@ -10,3 +10,6 @@ The application illustrate how a simple client server chat application works ove
   - There is enough data in the socket buffer to read multiple messages
 3. Also, to illustrate that the server needs to implement a multi-thread infrastructure to handle multiple clients.
 
+
+Below is the system diagram of the application:
+![](system%20diagram.PNG)
